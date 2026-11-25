@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Diğer ###
+*.log
+.env
+.DS_Store
+Thumbs.db
